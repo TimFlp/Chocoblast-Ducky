@@ -6,10 +6,10 @@
 -----
 # Démonstration
 ## Bloc-notes qui s'ouvre :
-![bloc-notes](capture/notes.JPG)
+![bloc-notes](notes.JPG)
 
 ## Vidéo qui se lance : 
-![video](capture/youtube.JPG)
+![video](youtube.JPG)
 
 -----
 # Installation
